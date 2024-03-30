@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Maps/Main.umap",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceGameGameMode.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Assets/T_Wisard.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Assets/T_Wisard1.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Assets/T_Wisard_Sprite_0.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/UI/WBP_HealthBar.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/F_Action.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/E_ActionType.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/UI/WBP_DebugMenu.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceGameCharacter.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceGamePawn.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceGameController.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceFace.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_Dice.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceBuilder.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/DiceFaces/BP_DiceFaceDamage.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/DiceFaces/BP_DiceFaceHeal.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Materials/M_UnlitColor.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Materials/M_Face.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Materials/M_Outline.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/UI/WBP_Text.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Materials/M_Outline_Inst.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/F_DiceFaceMeta.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/DiceFaces/BP_DiceFaceTest.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceGameCharacterPlayer.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_DiceGameCharacterEnemy.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/M_Face.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/M_Face.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/BP_DiceBuilder.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/F_DiceFace.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/F_DiceFace.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/M_UnlitColor.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/DiceFaces/BP_DiceFacea.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Materials/M_.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/T_Wisard.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BPI_DiceFace.uasset",
+				"C:/Users/12190/OneDrive/Documents/Unreal Projects/DiceGame/Content/Blueprints/Gameplay/BP_CombatManager.uasset"
+			]
+		}
+	]
+}
